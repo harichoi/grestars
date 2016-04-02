@@ -1,0 +1,118 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_DOWNMASK            BITMAP  DISCARDABLE     "downmask.bmp"
+IDB_DOWN                BITMAP  DISCARDABLE     "down.bmp"
+IDB_ALLCENTER           BITMAP  DISCARDABLE     "allcenter.bmp"
+IDB_ALLCENTERMASK       BITMAP  DISCARDABLE     "allcentermask.bmp"
+IDB_FARMER              BITMAP  DISCARDABLE     "farmer.bmp"
+IDB_FARMERMASK          BITMAP  DISCARDABLE     "farmermask.bmp"
+IDB_MONEY               BITMAP  DISCARDABLE     "money.bmp"
+IDB_ALLCENTER2          BITMAP  DISCARDABLE     "allcenter2.bmp"
+IDB_FARMER2             BITMAP  DISCARDABLE     "farmer2.bmp"
+IDB_FARMER3             BITMAP  DISCARDABLE     "farmer3.bmp"
+IDB_MAKING2             BITMAP  DISCARDABLE     "making2.bmp"
+IDB_MAKING              BITMAP  DISCARDABLE     "making.bmp"
+IDB_SOLDIERCREATOR      BITMAP  DISCARDABLE     "soldiercreator.bmp"
+IDB_SOLDIERCREATORMASK  BITMAP  DISCARDABLE     "soldiercreatormask.bmp"
+IDB_BASIC               BITMAP  DISCARDABLE     "basic.bmp"
+IDB_BASICMASK           BITMAP  DISCARDABLE     "basicmask.bmp"
+IDB_BOMB                BITMAP  DISCARDABLE     "bomb.bmp"
+IDB_SOLDIERCREATOR2     BITMAP  DISCARDABLE     "soidercreator2.bmp"
+IDB_NEXTBASIC           BITMAP  DISCARDABLE     "nextbasic.bmp"
+IDB_NEXTBASICMASK       BITMAP  DISCARDABLE     "nextbasicmask.bmp"
+IDB_FACTORY             BITMAP  DISCARDABLE     "factory.bmp"
+IDB_FACTORY2            BITMAP  DISCARDABLE     "factory2.bmp"
+IDB_FACTORY3            BITMAP  DISCARDABLE     "factory3.bmp"
+IDB_FACTORY4            BITMAP  DISCARDABLE     "factory4.bmp"
+IDB_FACTORY5            BITMAP  DISCARDABLE     "factory5.bmp"
+IDB_FACTORY6            BITMAP  DISCARDABLE     "factory6.bmp"
+IDB_FACTORY10           BITMAP  DISCARDABLE     "factory10.bmp"
+IDB_FACTORY11           BITMAP  DISCARDABLE     "factory11.bmp"
+IDB_FACTORY12           BITMAP  DISCARDABLE     "factory12.bmp"
+IDB_FACTORY13           BITMAP  DISCARDABLE     "factory13.bmp"
+IDB_FACTORY14           BITMAP  DISCARDABLE     "factory14.bmp"
+IDB_TANK                BITMAP  DISCARDABLE     "tank.bmp"
+IDB_TANKMASK            BITMAP  DISCARDABLE     "tankmask.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR1             CURSOR  DISCARDABLE     "cursor1.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
